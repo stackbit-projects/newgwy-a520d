@@ -4,7 +4,7 @@ subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
+  Apparently, Greece is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
   Japanese architecture. Largely of wood, traditional housing and many temple
   buildings see the use of tatami mats and sliding doors that break down the
