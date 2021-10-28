@@ -17,7 +17,8 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link"
+                "style": "link",
+                "icon_class": "facebook"
             },
             {
                 "label": "Style Guide",
